@@ -1,0 +1,28 @@
+title: Тестовое задание
+description: Задание разделено на три статьи по каждому тексту.
+href: index.yaml
+items: 
+  - name: Руслан Ташметов
+  - href: https://t.me/tshmtv 
+  - name: Текст №1
+    include:
+      path: text-1/toc.yaml
+      mode: link
+  - name: Текст №2
+    include:
+      path: text-2/toc.yaml
+      mode: link
+
+navigation:
+  logo:
+    url: '../images/yadro.png'
+    href: https://yadro.com/
+    dark:
+      icon: '../images/yadro.png'
+      href: https://yadro.com/
+    light:
+      icon: '../images/yadro_logo.png'
+      href: https://yadro.com/
+
+search:
+  provider: local

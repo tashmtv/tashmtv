@@ -1,0 +1,11 @@
+title: Раздел второго текста
+links:
+  - title: Исходник
+    href: content.md
+
+  - title: Ревью
+    href:  review.md
+
+  - title: Результат
+    href: relust.md
+

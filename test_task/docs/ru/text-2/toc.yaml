@@ -1,0 +1,9 @@
+title: Исходный текст
+href: index.yaml
+items:
+  - name: Исходный текст
+    href: content.md
+  - name: Вычитка исходного текста
+    href: review.md
+  - name: Итоговый вариант
+    href: result.md
